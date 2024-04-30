@@ -1,0 +1,31 @@
+.bg-img{
+    background-image: url(Assets/mountains-morning-snow-rock-mountain-landscape.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.hero-sec{
+
+}
+.text-mar{
+ padding-left: 500px;
+ gap: 30px;
+ 
+}
+.bottom-border{
+    border-bottom: 2px solid white;
+
+}
+.hero-sec{
+    margin-top: 350px;
+}
+button{
+border-radius: 200px;
+     width: 150px;
+}
+@media screen and (min-width: 1152px) {
+    .text-mar{
+        flex-wrap: wrap;
+    }
+     
+  }
